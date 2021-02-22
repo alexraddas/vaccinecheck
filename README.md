@@ -1,5 +1,5 @@
 # vaccinecheck
-Clark County Covid Vaccine Check
+Washington State Covid Vaccine Check
 
 ## Requirements
 - Chrome
