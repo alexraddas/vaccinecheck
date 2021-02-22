@@ -25,7 +25,7 @@ ADMIN_NUMBER = ['+12223331234']
 
 Set the INTERVAL (how often to check for vaccine openings) in seconds
 ```
-INTERVAL = ['+12223331234']
+INTERVAL = 60
 ```
 
 Set the COUNTY in the format of **COUNTYNAME**+COUNTY
